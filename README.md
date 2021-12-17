@@ -4,34 +4,39 @@ The winter break will likely have your first experience with stepping away from 
 
 The goal of this project is to give you something to work on over the break and to interact with your fellow students while we are out of class.
 
-### GitHub Classroom Process with React
+### GitHub Classroom Process
 
-- Accept the Echo-2021-Winter-Project assignment from GitHub Classroom
+- Accept the assignments from GitHub Classroom
+    [LightBulb Challenge](https://classroom.github.com/a/DlPDdDQ5)
+    [Week-3 Assessment](https://classroom.github.com/a/PkF9ycNP)
 - Clone the repository to your local environment
 - 'cd' into the repository
-- Create a new branch for the user story you are working on (ex. Setup-off-on)
-- Create a new React application with no spaces in the name: yarn create react-app lightbulb
-- cd into the project
+- Create a new branch for the user story you are working on (ex. setup-off-on)
 - Open the project in a text editor
-- Create a directory in src called components
-- Create a directory in src called assets
 - Code!
 
 Useful Commands
 ```
-$ yarn create react-app app-name
+$ yarn
 $ yarn start
+$ yarn add jest
+$ yarn jest
 ctrl + c (stops the server)
 ctrl + t (opens a new terminal tab)
 ```
-## Light Bulb Challenge
+<hr>
+## Week 3 Assessment
+   The assessment README.md
+
+<hr>
+# Light Bulb Challenge
 This challenge has three pieces: 
 1. The Code: A React project.
 2. Code Reviews: Developing a new skill that is valuable in Development field.
 3. Show and Tell: A short presentation about your experiance with the project. 
 
 # The Code 
-This part of the challenge is broken into sections to help you understand the goal and scope of the project. Your job is to break these sections down into smaller managable pieces. The indurstry standard is to turn ideas into user stories: (ex. "As a user, I can see a button that turns red when I click it"). Part of this project will require research into react assets. 
+This part of the challenge is broken into sections to help you understand the goal and scope of the project. Your job is to break these sections down into smaller managable pieces. The indurstry standard is to turn ideas into user stories: (ex. "As a user, I can see a button that turns red when I click it"). Part of this project will require research into react assets. The React Project has already been created for you so all you need to do once you clone it down is run $ yarn.
 
 **Branch names have been given for each of the larger sections. These are the only branches you should need to use.**
 

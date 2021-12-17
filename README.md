@@ -13,6 +13,7 @@ The goal of this project is to give you something to work on over the break and 
 - 'cd' into the repository
 - Create a new branch for the user story you are working on (ex. setup-off-on)
 - Open the project in a text editor
+- Review the README.md
 - Code!
 
 Useful Commands
@@ -24,11 +25,7 @@ $ yarn jest
 ctrl + c (stops the server)
 ctrl + t (opens a new terminal tab)
 ```
-<hr>
-## Week 3 Assessment
-   The assessment README.md
 
-<hr>
 # Light Bulb Challenge
 This challenge has three pieces: 
 1. The Code: A React project.

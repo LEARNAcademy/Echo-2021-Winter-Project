@@ -29,8 +29,8 @@ This challenge has three pieces:
 2. Code Reviews: Developing a new skill that is valuable in Development field.
 3. Show and Tell: A short presentation about your experiance with the project. 
 
-## The Code 
-This part of the challenge is broken into large stories to help you understand the goal and scope of the project. Your job is to break these user stories down into smaller managable pieces. The indurstry standard is to turn ideas into user stories: (ex. "As a user, I can see a button that turns red when I click it"). Part of this project will require research into react assets. 
+# The Code 
+This part of the challenge is broken into sections to help you understand the goal and scope of the project. Your job is to break these sections down into smaller managable pieces. The indurstry standard is to turn ideas into user stories: (ex. "As a user, I can see a button that turns red when I click it"). Part of this project will require research into react assets. 
 
 **Branch names have been given for each of the larger sections. These are the only branches you should need to use.**
 
@@ -72,7 +72,7 @@ Be mindful to promptly pushing your code for assignments because **your peers wi
 
 
 
-## Code Review 
+# Code Review 
 Building your code reviewer muscle as a web developer is an important skill. Know that your input, at any level, is valuable. Code reviewing gives you the opportunity to read code and understand all the things that go into making code beautiful.
 
 Each person will be responsible for reviewing three Pull Requests of their classmates. This includes checking their code for: 
@@ -101,7 +101,6 @@ Consider improvements that can be made to:
 - Comments: Are they helpful and accurate? 
 - Logic: Is there another way to achieve the same behavior? What are the pros and cons of doing it that way?
 - Compliments: What does the code do well?
-and lastly 
 
 
 ## How to: Code Review
@@ -115,8 +114,7 @@ and lastly
 8. If you did not approve but did leave a comment on the code: leave a comment on the slack post "left a comment for you in Github" 
 
 
-
-## The Show and Tell
+# The Show and Tell
 Prepare a three-minute show and tell for the cohort. Pick one or two of the following topics to help structure your presentation.
 
 Topics

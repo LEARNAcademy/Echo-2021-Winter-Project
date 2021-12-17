@@ -8,8 +8,8 @@ The goal of this project is to give you something to work on over the break and 
 
 - clone the Echo-2021-Winter-Project repository with your username attached to it
 - cd into the repository
-- Create a new branch for the user story you are working on(ex. create-react-app)
-- Create a new React application with no spaces: yarn create react-app lightbulb
+- Create a new branch for the user story you are working on(ex. Setup-off-on)
+- Create a new React application with no spaces in the name: yarn create react-app lightbulb
 - cd into the project
 - Open the project in a text editor
 - Create a directory in src called components
@@ -24,16 +24,21 @@ ctrl + c (stops the server)
 ctrl + t (opens a new terminal tab)
 ```
 ## Light Bulb Challenge
-This challenge has three pieces: The Code, Code Reviews, and a Presentation.
+This challenge has three pieces: 
+1. The Code: A React project.
+2. Code Reviews: Developing a new skill that is valuable in Development field.
+3. Show and Tell: A short presentation about your experiance with the project. 
 
 ## The Code 
-This part of the challenge is broken into user stories to help you divide up the work of a project like you would at internship or on a dev team. 
+This part of the challenge is broken into large stories to help you understand the goal and scope of the project. Your job is to break these user stories down into smaller managable pieces. The indurstry standard is to turn ideas into user stories: (ex. "As a user, I can see a button that turns red when I click it"). Part of this project will require research into react assets. 
+
+**Branch names have been given for each of the larger sections. These are the only branches you should need to use.**
 
 ### Light Bulb User Stories
     
 Branch Name : Setup-off-on
 
-- I can see my React App running on my screen.On my screen, I can see a square on the screen with the word "off" in the middle. When I click the square the word toggle from "off" to "on" and then back "off" again. When I click the box the color goes from white to yellow. The words "on" or "off" are still displayed in the box. 
+- I can see my React App running on my screen. On my screen, I can see a square on the screen with the word "off" in the middle. When I click the square the word toggle from "off" to "on" and then back "off" again. When I click the box the color goes from white to yellow. The words "on" or "off" are still displayed in the box. 
 
 Branch Name : assets-switch
 
@@ -64,7 +69,8 @@ Once you are complete with each story of coding you will:
 8. Keep coding!
 
 Be mindful to promptly pushing your code for assignments because **your peers will need time to read your code and provide feedback in a timely manner**
-Below are your code review assignments.
+
+
 
 ## Code Review 
 Building your code reviewer muscle as a web developer is an important skill. Know that your input, at any level, is valuable. Code reviewing gives you the opportunity to read code and understand all the things that go into making code beautiful.
@@ -110,7 +116,7 @@ and lastly
 
 
 
-## The Presentation
+## The Show and Tell
 Prepare a three-minute show and tell for the cohort. Pick one or two of the following topics to help structure your presentation.
 
 Topics

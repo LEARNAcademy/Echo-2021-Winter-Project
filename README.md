@@ -46,24 +46,17 @@ Branch Name : setup-off-on
 - User story: When I click the square the word toggles from "off" to "on" and then back to "off" again.
 - User story: When the lightbulb is "off" the background color of the box is white. When the lightbulb is "on" the background color of the box is yellow.
 
-Branch Name : assets-switch
+Branch Name : assets-switch-bulb
 
 - User story: Instead of seeing a box, I see a picture of a light switch in the "off" position.
 - User story: When I click the light switch the image toggles from an image in the "off" position to an image in the "on" position and then back to "off" again.
 - User story: When the light switch is "off" I see a white (unlit) lightbulb. When I turn the switch "on" I see a yellow (lit) lightbulb.
 
-Branch Name : assets-bulb
+Branch Name : add-remove
 
 - User story: I can see two buttons. One that will add a light switch and one that will remove a light switch.
 - User story: When I click the button to add a light switch a can see another light switch with its accompanying lightbulb. All the switches operate independently of each other.
 - User story: I can click a button to remove a light switch with its accompanying lightbulb.
-
-
-### Stretch Challenge
-
-Branch Name : stretch-challenges
-
-- I can see two buttons, add a Light Switch and remove a Light Switch. When I click the Add button I can another Light Switch with its accompanying Light Bulb. When I see multiple Light Switch/Light Bulb combinations, they all operate independently of each other. When I click the Remove button I can delete a Light Switch with its accompanying Light Bulb. 
 
 ### Light Bulb Git Hub Process 
 Important! 
@@ -90,7 +83,6 @@ Each person will be responsible for reviewing three Pull Requests of their class
 - Proper syntax
 - Pseudo Code
 - Formatting and Indentation
-&
 - Make sure that the associated branch matches the work that is done.
 
 

@@ -72,7 +72,7 @@ Be mindful to promptly pushing your code for assignments because **your peers wi
 
 
 
-# Code Review 
+# The Code Review 
 Building your code reviewer muscle as a web developer is an important skill. Know that your input, at any level, is valuable. Code reviewing gives you the opportunity to read code and understand all the things that go into making code beautiful.
 
 Each person will be responsible for reviewing three Pull Requests of their classmates. This includes checking their code for: 

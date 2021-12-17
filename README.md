@@ -72,7 +72,7 @@ Be mindful to promptly pushing your code for assignments because **your peers wi
 
 
 
-# The Code Review 
+# Code Reviews
 Building your code reviewer muscle as a web developer is an important skill. Know that your input, at any level, is valuable. Code reviewing gives you the opportunity to read code and understand all the things that go into making code beautiful.
 
 Each person will be responsible for reviewing three Pull Requests of their classmates. This includes checking their code for: 
@@ -114,7 +114,7 @@ Consider improvements that can be made to:
 8. If you did not approve but did leave a comment on the code: leave a comment on the slack post "left a comment for you in Github" 
 
 
-# The Show and Tell
+# Show and Tell
 Prepare a three-minute show and tell for the cohort. Pick one or two of the following topics to help structure your presentation.
 
 Topics

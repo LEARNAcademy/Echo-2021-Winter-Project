@@ -118,7 +118,7 @@ Consider improvements that can be made to:
 
 
 # Show and Tell
-Prepare a three-minute show and tell for the cohort. Pick three of the following topics to help structure your presentation.
+Prepare a three-minute show and tell for the cohort. Pick three of the following topics to help structure your presentation. Each student will be expected to showcase their user's experiance as well as some of the code from the project. 
 
 **Topics**
 

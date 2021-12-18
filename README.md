@@ -122,7 +122,7 @@ Prepare a three-minute show and tell for the cohort. Pick three of the following
 
 **Topics**
 
-- Talk about errors you encountered in your Lightbulb challenge. Show a screen shot of the error message. Talk about the steps you went throguh to find your solution.
+- Talk about errors you encountered in your Lightbulb challenge. Show a screen shot of the error message. Talk about the steps you went through to find your solution.
 
 - Talk about feedback you left on your code reviews. Why did you feel this feedback was important? What was your experience in providing feedback? 
 
